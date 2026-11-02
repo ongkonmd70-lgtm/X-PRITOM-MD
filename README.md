@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">💫 Vᴏʀᴛᴇx xᴍᴅ 💫</h1>
+  <h1 align="center">💫 X-PRITOM MD 💫</h1>
 </p>
 
 <div align="center"> 
